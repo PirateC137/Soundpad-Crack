@@ -1,8 +1,6 @@
 
 # ▶︎ Soundpad Crack
 
-This patch removes **all demo limitations** of Soundpad — no more "buy now" pop-ups, no limit on sounds or playback time.  
-Just replace one file and enjoy the full version.
 
 ## Features
 
