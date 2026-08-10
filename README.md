@@ -24,6 +24,3 @@ Just replace one file and enjoy the full version.
    <p align="center">
      <img src="https://github.com/user-attachments/assets/58a1c9d8-5627-429b-bd95-af4a7930c945" alt="VirusTotal scan result" width="700">
    </p>
-<p align="center">
-  <img src="logo.svg" width="400" alt="By Pirate">
-</p>
